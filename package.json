@@ -16,7 +16,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "lucide-react": "^0.289.0",
-    "next": "14.0.0",
+    "next": "^14.2.5",
     "next-sanity": "^5.5.11",
     "or": "^0.2.0",
     "react": "^18",
